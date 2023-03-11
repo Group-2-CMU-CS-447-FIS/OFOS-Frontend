@@ -28,5 +28,5 @@ npm install
 ### 3. Run the application
 
 ```yaml
-npm start
+npm run dev
 ```
